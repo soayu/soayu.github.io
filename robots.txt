@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://soayu.github.io/ZHG/sitemap.ZHG.gz
