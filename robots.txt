@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://soayu.csgad.com/PIW/sitemap.xml.gz
